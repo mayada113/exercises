@@ -1,0 +1,17 @@
+#left{
+    float:left; 
+    height: 50px;
+    width: calc(100% - 20px);
+    background-color: #f06672;
+    
+
+}
+
+#right{
+    float:right; 
+    height: 50px;
+    width: 20px;
+    background-color: #ee0909;
+    
+
+}

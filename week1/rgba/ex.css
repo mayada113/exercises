@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/47/d1/98/exterior.jpg?w=900&h=-1&s=1');
+}
+#transparent{
+    height: 50px;
+    width: calc(40%);
+    color: rgba(22, 21, 21, 0.5);
+    background-color: rgba(39, 35, 35, 0.5);
+}
+#title{
+    height: 50px;
+    width: calc(40%);
+    color: rgba(22, 161, 199, 1);
+    background-color: rgba(43, 37, 37, 1);
+}

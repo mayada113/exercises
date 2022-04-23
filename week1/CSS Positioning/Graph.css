@@ -1,0 +1,57 @@
+#parent{
+    width: 250px;
+    height: 200px;
+    background-color: purple;
+    position: relative;
+
+}
+.child{
+    background-color: grey;
+}
+#child1{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom:10px;
+    left:10px;
+}
+#child2{
+    width: 20px;
+    height: 150px;
+    position: absolute;
+    bottom:10px;
+    left: 40px;
+}
+#child3{
+    width: 20px;
+    height: 160px;
+    position: absolute;
+    bottom:10px;
+    left: 70px;
+}
+#child4{
+    width: 20px;
+    height: 130px;
+    position: absolute;
+    bottom:10px;
+    left: 100px;
+}
+#child5{
+    width: 20px;
+    height: 160px;
+    position: absolute;
+    bottom:10px;
+    left: 130px;
+}
+#child6{
+    width: 20px;
+    height: 100px;
+    position: absolute;
+    bottom:10px;
+    left: 160px;
+}
+#time {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }

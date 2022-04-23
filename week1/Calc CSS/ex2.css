@@ -1,0 +1,27 @@
+#left{
+    float:left; 
+    height: 50px;
+    width: calc(40% / 3);
+    background-color: #f06672;
+    border-style: solid;
+    
+
+}
+
+#middle{
+    float:left; 
+    height: 50px;
+    width: calc(40% / 3);
+    background-color: #f06672;
+    border-style: solid;
+
+}
+
+#right{
+    float:left; 
+    height: 50px;
+    width: calc(40% / 3);
+    background-color: #f06672;
+    border-style: solid;
+}
+

@@ -1,0 +1,62 @@
+body {
+    font-family: serif;
+  }
+  
+  #container {
+    position: relative;
+    background-color: #0deec1;
+    display: inline-block;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border: #157b67 solid 6px;
+  }
+  
+  #form {
+    position: relative;
+    width: 450px;
+    height: 400px;
+  }
+  
+  .main {
+    margin: 15px;
+  }
+  
+  .second-line {
+    display: inline-block;
+  }
+  
+  #error-message {
+    color: red;
+    position: absolute;
+  }
+  
+  #name{
+    width: 100%;
+  }
+  
+  #desired-salary {
+    width: 150px;
+  }
+  
+  #birthday {
+    width: 100%;
+  }
+  
+  #phone {
+    width: 100%;
+  }
+  
+  #button {
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    background-color: #315578;
+    color: #0d0e0e;
+    border: #365778 solid 3px;
+  
+    width: 65px;
+    height:25px;
+    border-radius: 7%
+  }

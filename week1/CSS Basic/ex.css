@@ -1,0 +1,26 @@
+#container{
+   background-color: grey; 
+   width: 180px;
+   height: 180px;
+   border: 1px solid black;
+}
+
+.button{
+    background-color: green;
+}
+
+#first{
+      height: 50px;
+      width: 50px;
+      background-color: #39a2b0;
+      display: inline-block;
+
+}
+
+#second{
+      height: 50px;
+      width: 50px;
+      background-color: #cf7515;
+      display: inline-block;
+
+}

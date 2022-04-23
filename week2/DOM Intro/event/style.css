@@ -1,0 +1,16 @@
+#box{
+    background-color: #d31b21;
+    line-height:20px;
+    text-align:center;
+    width: 150px;
+    padding: 20px;
+  }
+
+  #some-id{
+    background-color: #1abc9c;
+    height:20px;
+    text-align:center;
+    width: 150px;
+    padding: 20px;
+ 
+  }
